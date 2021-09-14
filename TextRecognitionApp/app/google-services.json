@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862267015703",
+    "project_id": "text-recognition-32eae",
+    "storage_bucket": "text-recognition-32eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862267015703:android:bd210699d52f5c96fc1252",
+        "android_client_info": {
+          "package_name": "com.likhitha.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862267015703-4o4fpa77csahrp4uce1p78p7sgm97q3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKY_5QuHOi8QFwfQ8r4IkSWMYdrhNnkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862267015703-4o4fpa77csahrp4uce1p78p7sgm97q3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
